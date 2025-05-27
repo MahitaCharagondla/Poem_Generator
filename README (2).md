@@ -85,8 +85,8 @@ You can now use the cleaned sentences (`sentences_allan_poems.csv`) to:
 ### 3. **Poem Generation using SpaCy**  
    Leverages linguistic features to structure original poetic stanzas or sentences based on the analysis.
 
-   **Input :** 
-   whispers
+   **Input :** whispers.
+   
    **Output :**
    thy heart- thy heart!- i wake and sigh,
      adorn yon world afar, afar-
@@ -98,14 +98,16 @@ You can now use the cleaned sentences (`sentences_allan_poems.csv`) to:
    Uses models from the `diffusers` library (e.g., Stable Diffusion) to visualize the generated poem as an artistic image.
 
    **Input:** 
-   Output of the poem generator
+   Output of the poem generator.
+   
    **Output:** 
    ![image](https://github.com/user-attachments/assets/3f1b5708-39cd-459b-836e-8dc8925f3033)
 
 ### 5. **Text-to-Audio (WAV Format)**  
    Converts the generated poem into speech and saves it as a `.wav` audio file using Microsoft Speecht5-TTS
    **Input:** 
-   Output of the poem generator
+   Output of the poem generator.
+   
    **Output:**
    
 ---
