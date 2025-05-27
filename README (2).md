@@ -93,7 +93,7 @@ You can now use the cleaned sentences (`sentences_allan_poems.csv`) to:
      'twas such as angel minds above
    that high tone of the spirit which hath striven.
    
-      ![Test Image 1](https://github.com/user-attachments/assets/8fb67af6-214a-4f31-b79e-6a3265a80c3e)
+  ![Test Image 1](https://github.com/user-attachments/assets/8fb67af6-214a-4f31-b79e-6a3265a80c3e)
 
 ### 4. **Text-to-Image Generation**  
    Uses models from the `diffusers` library (e.g., Stable Diffusion) to visualize the generated poem as an artistic image.
@@ -102,7 +102,7 @@ You can now use the cleaned sentences (`sentences_allan_poems.csv`) to:
    Output of the poem generator.
    
    **Output:** 
-   ![image](https://github.com/user-attachments/assets/3f1b5708-39cd-459b-836e-8dc8925f3033)
+ ![image](https://github.com/user-attachments/assets/3f1b5708-39cd-459b-836e-8dc8925f3033)
 
 ### 5. **Text-to-Audio (WAV Format)**  
    Converts the generated poem into speech and saves it as a `.wav` audio file using Microsoft Speecht5-TTS
