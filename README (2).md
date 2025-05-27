@@ -92,6 +92,7 @@ You can now use the cleaned sentences (`sentences_allan_poems.csv`) to:
      adorn yon world afar, afar-
      'twas such as angel minds above
    that high tone of the spirit which hath striven.
+   
       ![Test Image 1](https://github.com/user-attachments/assets/8fb67af6-214a-4f31-b79e-6a3265a80c3e)
 
 ### 4. **Text-to-Image Generation**  
