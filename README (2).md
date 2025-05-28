@@ -105,11 +105,13 @@ You can now use the cleaned sentences (`sentences_allan_poems.csv`) to:
  ![image](https://github.com/user-attachments/assets/3f1b5708-39cd-459b-836e-8dc8925f3033)
 
 ### 5. **Text-to-Audio (WAV Format)**  
-   Converts the generated poem into speech and saves it as a `.wav` audio file using Microsoft Speecht5-TTS
+   Converts the generated poem into speech and saves it as a `.wav` audio file using Microsoft Speecht5-TTS.
+   
    **Input:** 
    Output of the poem generator.
    
    **Output:**
+   .WAV file automatically downloads into your local desktop. 
    
 ---
 
